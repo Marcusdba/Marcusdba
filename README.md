@@ -28,11 +28,12 @@
 ---
 
 ## 📂 Projetos em Destaque
-🔹 [**Portfolio Pessoal**](#) – Meu site de apresentação com HTML, CSS e JS  
-🔹 [**App de Tarefas (To‑Do List)**](#) – Gerenciador de tarefas simples com LocalStorage  
-🔹 [**Clima Agora**](#) – Aplicativo de previsão do tempo consumindo API  
-🔹 [**Mini E‑commerce**](#) – Loja simulada com React e carrinho de compras  
-🔹 [**API CRUD de Usuários**](#) – Back‑end em Node.js com Express  
+- 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JS  
+- 🌐 [Portfolio Pessoal](https://marcusdba.github.io/portfolio/) *(em breve)*  
+- 🌦️ Clima Agora – App de previsão do tempo (API) *(em breve)*  
+- 🛒 Mini E‑commerce – Loja simulada em React *(em breve)*  
+- 👨‍💻 API CRUD de Usuários – Back‑end com Node.js *(em breve)*
+
 
 > *Clique nos links acima para ver os repositórios e rodar os projetos (em breve todos publicados).*
 
