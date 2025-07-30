@@ -1,7 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Marcus</h1>
 
 <p align="center">
-  🚀 Futuro Desenvolvedor Web focado em <strong>JavaScript</strong>, apaixonado por tecnologia e em busca da minha primeira oportunidade como <strong>Dev Júnior</strong>.
+  🚀 Desenvolvedor Web em formação, focado em <strong>JavaScript, React.js e Node.js</strong>.  
+  Apaixonado por tecnologia e atualmente construindo meu portfólio para conquistar minha primeira oportunidade como <strong>Dev Júnior</strong>.
 </p>
 
 ---
@@ -9,7 +10,7 @@
 ## 📌 Sobre mim
 - 🎯 Meta: conquistar minha primeira vaga como Desenvolvedor Web em 2025.
 - 📚 Estudando diariamente: **JavaScript, React.js, Node.js e APIs REST**.
-- 💻 Construindo meu portfólio com projetos práticos aqui no GitHub.
+- 💻 Já publiquei projetos práticos e sigo ampliando meu portfólio.
 - 🤝 Aberto a colaborar em projetos open‑source e freelances.
 
 ---
@@ -28,14 +29,13 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JS  
-- 🌐 [Portfolio Pessoal](https://marcusdba.github.io/portfolio/) *(em breve)*  
-- 🌦️ Clima Agora – App de previsão do tempo (API) *(em breve)*  
-- 🛒 Mini E‑commerce – Loja simulada em React *(em breve)*  
-- 👨‍💻 API CRUD de Usuários – Back‑end com Node.js *(em breve)*
+- 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JavaScript  
+- 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/) – App de previsão do tempo consumindo API pública  
+- 🌐 Portfolio Pessoal *(em breve)*  
+- 🛒 Mini E‑commerce *(em breve, em React)*  
+- 👨‍💻 API CRUD de Usuários *(em breve, com Node.js)*  
 
-
-> *Clique nos links acima para ver os repositórios e rodar os projetos (em breve todos publicados).*
+> *Clique nos links acima para acessar os repositórios e rodar os projetos.*
 
 ---
 
@@ -45,13 +45,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
-
 ---
 
 ## 📅 Meu Cronograma de Aprendizado
 - ✅ Fundamentos de HTML e CSS  
 - ✅ Lógica de programação em JavaScript  
-- 🔄 Manipulação de DOM e consumo de APIs  
+- ✅ Manipulação de DOM e consumo de APIs  
+- 🔄 Construção de projetos práticos (To‑Do List, Clima Agora)  
 - 🔜 React.js e componentes dinâmicos  
 - 🔜 Node.js e criação de APIs REST  
 - 🔜 Integração front‑end e back‑end  
