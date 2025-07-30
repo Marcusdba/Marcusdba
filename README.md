@@ -29,13 +29,13 @@
 ---
 
 ## 📂 Projetos em Destaque
+- 🌐 [Portfólio Pessoal](https://marcusdba.github.io/portfolio/) – Meu site pessoal apresentando projetos e contatos  
 - 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JavaScript  
 - 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/) – App de previsão do tempo consumindo API pública  
-- 🌐 Portfolio Pessoal *(em breve)*  
 - 🛒 Mini E‑commerce *(em breve, em React)*  
 - 👨‍💻 API CRUD de Usuários *(em breve, com Node.js)*  
 
-> *Clique nos links acima para acessar os repositórios e rodar os projetos.*
+> *Clique nos links acima para acessar os projetos online.*
 
 ---
 
@@ -45,6 +45,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusdba&theme=radical"/>
+</p>
 
 ---
 
@@ -52,8 +55,8 @@
 - ✅ Fundamentos de HTML e CSS  
 - ✅ Lógica de programação em JavaScript  
 - ✅ Manipulação de DOM e consumo de APIs  
-- 🔄 Construção de projetos práticos (To‑Do List, Clima Agora)  
-- 🔜 React.js e componentes dinâmicos  
+- ✅ Construção de projetos práticos (To‑Do List, Clima Agora, Portfólio Pessoal)  
+- 🔄 React.js e componentes dinâmicos  
 - 🔜 Node.js e criação de APIs REST  
 - 🔜 Integração front‑end e back‑end  
 
@@ -66,5 +69,5 @@
 ---
 
 <p align="center">
-  Feito com 💛 em JavaScript
+  Desenvolvido em JavaScript
 </p>
