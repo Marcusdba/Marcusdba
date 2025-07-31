@@ -41,12 +41,12 @@
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&refresh=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&refresh=true" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusdba&theme=radical&date_format=M%20j%5B%2C%20Y%5D&refresh=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusdba&theme=radical&date_format=M%20j%5B%2C%20Y%5D&refresh=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  Feito com 💛 em JavaScript
+  Desenvolvido em JavaScript
 </p>
