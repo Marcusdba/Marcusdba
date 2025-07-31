@@ -43,8 +43,12 @@
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=30&refresh=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&cache_seconds=30&refresh=true" alt="Linguagens mais usadas"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=30" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&cache_seconds=30&custom_title=Top%20Languages%20(incl.%20React)" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
 </p>
 
 <p align="center">
