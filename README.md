@@ -30,13 +30,9 @@
 
 ## 📂 Projetos em Destaque
 - 🌐 [Portfólio Pessoal](https://marcusdba.github.io/portfolio/) – Meu site pessoal apresentando projetos e contatos  
-  🔹 **Commits:** 4  
 - 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JavaScript  
-  🔹 **Commits:** 5  
 - 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/) – App de previsão do tempo consumindo API pública  
-  🔹 **Commits:** 8  
 - 📘 [Perfil Marcusdba](https://github.com/Marcusdba/Marcusdba) – Meu repositório de perfil GitHub  
-  🔹 **Commits:** 14  
 - 🛒 Mini E‑commerce *(em breve, em React)*  
 - 👨‍💻 API CRUD de Usuários *(em breve, com Node.js)*  
 
