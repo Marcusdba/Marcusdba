@@ -56,9 +56,8 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Marcusdba&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcusdba&theme=radical" alt="GitHub Activity Graph"/>
 </p>
-
 
 ---
 
