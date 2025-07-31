@@ -30,25 +30,27 @@
 
 ## 📂 Projetos em Destaque
 - 🌐 [Portfólio Pessoal](https://marcusdba.github.io/portfolio/) – Meu site pessoal apresentando projetos e contatos  
+  🔹 **Commits:** 4  
 - 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JavaScript  
+  🔹 **Commits:** 5  
 - 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/) – App de previsão do tempo consumindo API pública  
+  🔹 **Commits:** 8  
+- 📘 [Perfil Marcusdba](https://github.com/Marcusdba/Marcusdba) – Meu repositório de perfil GitHub  
+  🔹 **Commits:** 14  
 - 🛒 Mini E‑commerce *(em breve, em React)*  
 - 👨‍💻 API CRUD de Usuários *(em breve, com Node.js)*  
-
-> *Clique nos links acima para acessar os projetos online.*
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&refresh=true" alt="Linguagens mais usadas"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&refresh=true"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Marcusdba&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Marcusdba&theme=radical&date_format=M%20j%5B%2C%20Y%5D&refresh=true"/>
 </p>
-
 
 ---
 
