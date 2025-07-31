@@ -17,34 +17,34 @@
 
 ## 📂 Projetos em Destaque
 
-### 🌐 [Portfólio Pessoal](https://marcusdba.github.io/portfolio/)
-![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/portfolio?color=blue&label=Commits)
-![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/portfolio?color=green&label=Último%20Commit)
-![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/portfolio?color=orange&label=Tamanho)
+### 🌐 [Portfólio Pessoal](https://github.com/Marcusdba/portfolio)
+[![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/portfolio?color=blue&label=Commits)](https://github.com/Marcusdba/portfolio/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/portfolio?color=green&label=Último%20Commit)](https://github.com/Marcusdba/portfolio/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/portfolio?color=orange&label=Tamanho)](https://github.com/Marcusdba/portfolio)
 > Meu site pessoal apresentando projetos e contatos
 
 ---
 
-### 📋 [To‑Do List](https://marcusdba.github.io/todo-list/)
-![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/todo-list?color=blue&label=Commits)
-![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/todo-list?color=green&label=Último%20Commit)
-![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/todo-list?color=orange&label=Tamanho)
+### 📋 [To‑Do List](https://github.com/Marcusdba/todo-list)
+[![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/todo-list?color=blue&label=Commits)](https://github.com/Marcusdba/todo-list/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/todo-list?color=green&label=Último%20Commit)](https://github.com/Marcusdba/todo-list/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/todo-list?color=orange&label=Tamanho)](https://github.com/Marcusdba/todo-list)
 > Lista de tarefas com HTML, CSS e JavaScript
 
 ---
 
-### 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/)
-![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/clima-agora?color=blue&label=Commits)
-![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/clima-agora?color=green&label=Último%20Commit)
-![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/clima-agora?color=orange&label=Tamanho)
+### 🌦️ [Clima Agora](https://github.com/Marcusdba/clima-agora)
+[![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/clima-agora?color=blue&label=Commits)](https://github.com/Marcusdba/clima-agora/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/clima-agora?color=green&label=Último%20Commit)](https://github.com/Marcusdba/clima-agora/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/clima-agora?color=orange&label=Tamanho)](https://github.com/Marcusdba/clima-agora)
 > App de previsão do tempo consumindo API pública
 
 ---
 
 ### 📘 [Perfil Marcusdba](https://github.com/Marcusdba/Marcusdba)
-![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/Marcusdba?color=blue&label=Commits)
-![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/Marcusdba?color=green&label=Último%20Commit)
-![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/Marcusdba?color=orange&label=Tamanho)
+[![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/Marcusdba?color=blue&label=Commits)](https://github.com/Marcusdba/Marcusdba/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/Marcusdba?color=green&label=Último%20Commit)](https://github.com/Marcusdba/Marcusdba/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/Marcusdba?color=orange&label=Tamanho)](https://github.com/Marcusdba/Marcusdba)
 > Meu repositório de perfil GitHub
 
 ---
