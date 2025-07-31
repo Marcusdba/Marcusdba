@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  Feito com 💛 em JavaScript e React.js
+  Desenvolvido em JavaScript e React.js
 </p>
