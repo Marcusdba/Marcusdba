@@ -35,19 +35,18 @@
 - 🛒 Mini E‑commerce *(em breve, em React)*  
 - 👨‍💻 API CRUD de Usuários *(em breve, com Node.js)*  
 
-
 > *Clique nos links acima para acessar os projetos online.*
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusdba&theme=radical" alt="GitHub Streak"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusdba&theme=radical"/>
 </p>
 
 ---
