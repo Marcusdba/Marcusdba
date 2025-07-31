@@ -15,39 +15,49 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 📂 Projetos em Destaque
+
+### 🌐 [Portfólio Pessoal](https://marcusdba.github.io/portfolio/)
+![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/portfolio?color=blue&label=Commits)
+![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/portfolio?color=green&label=Último%20Commit)
+![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/portfolio?color=orange&label=Tamanho)
+> Meu site pessoal apresentando projetos e contatos
 
 ---
 
-## 📂 Projetos em Destaque
-- 🌐 [Portfólio Pessoal](https://marcusdba.github.io/portfolio/) – Meu site pessoal apresentando projetos e contatos  
-- 📋 [To‑Do List](https://marcusdba.github.io/todo-list/) – Lista de tarefas com HTML, CSS e JavaScript  
-- 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/) – App de previsão do tempo consumindo API pública  
-- 📘 [Perfil Marcusdba](https://github.com/Marcusdba/Marcusdba) – Meu repositório de perfil GitHub   
-- 🛒 Mini E‑commerce *(em breve, em React)*  
-- 👨‍💻 API CRUD de Usuários *(em breve, com Node.js)*  
+### 📋 [To‑Do List](https://marcusdba.github.io/todo-list/)
+![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/todo-list?color=blue&label=Commits)
+![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/todo-list?color=green&label=Último%20Commit)
+![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/todo-list?color=orange&label=Tamanho)
+> Lista de tarefas com HTML, CSS e JavaScript
+
+---
+
+### 🌦️ [Clima Agora](https://marcusdba.github.io/clima-agora/)
+![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/clima-agora?color=blue&label=Commits)
+![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/clima-agora?color=green&label=Último%20Commit)
+![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/clima-agora?color=orange&label=Tamanho)
+> App de previsão do tempo consumindo API pública
+
+---
+
+### 📘 [Perfil Marcusdba](https://github.com/Marcusdba/Marcusdba)
+![Commits](https://img.shields.io/github/commit-activity/t/Marcusdba/Marcusdba?color=blue&label=Commits)
+![Last Commit](https://img.shields.io/github/last-commit/Marcusdba/Marcusdba?color=green&label=Último%20Commit)
+![Repo Size](https://img.shields.io/github/repo-size/Marcusdba/Marcusdba?color=orange&label=Tamanho)
+> Meu repositório de perfil GitHub
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&refresh=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcusdba&show_icons=true&theme=radical&count_private=true&include_all_commits=true&refresh=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusdba&layout=compact&langs_count=7&theme=radical&refresh=true" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcusdba&theme=radical&date_format=M%20j%5B%2C%20Y%5D&refresh=true" alt="GitHub Streak"/>
 </p>
-
 
 ---
 
