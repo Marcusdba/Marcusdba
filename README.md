@@ -67,7 +67,7 @@
 - ✅ Lógica de programação em JavaScript  
 - ✅ Manipulação de DOM e consumo de APIs  
 - ✅ Construção de projetos práticos (To‑Do List, Clima Agora, Portfólio Pessoal, Mini E‑commerce)  
-- 🔄 React.js e componentes dinâmicos  
+- ✅ React.js e componentes dinâmicos  
 - 🔜 Node.js e criação de APIs REST  
 - 🔜 Integração front‑end e back‑end  
 - 🔜 Deploys profissionais e integração com banco de dados  
